@@ -34,7 +34,6 @@ Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 
 Data Science and Machine Learning Frameworks
 
